@@ -33,4 +33,5 @@ Copyright (C) 2021 Natnael Haile
 ## Questions
 * M/A
 ## Contact
-* You can contact me directly at haile.natnael@natnaeldev.com. You can also find more of my work at (https://github.com/natnaelh14/)
+* You can contact me directly at haile.natnael@natnaeldev.com. 
+* You can also find more of my work at (https://github.com/natnaelh14/)
